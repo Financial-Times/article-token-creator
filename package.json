@@ -1,0 +1,21 @@
+{
+  "name": "article-token-creator",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "author": "Jake Champion",
+  "license": "",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "base64-url": "^1.2.1",
+    "node-rsa": "^0.2.25",
+    "text-encoding": "^0.5.2",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.2.0"
+  }
+}
