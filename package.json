@@ -11,7 +11,7 @@
   "dependencies": {
     "base-64": "^0.1.0",
     "base64-url": "^1.2.1",
-    "node-rsa": "^0.2.25",
+    "node-rsa": "^0.4.2",
     "text-encoding": "^0.5.2",
     "uuid": "^2.0.1"
   },
